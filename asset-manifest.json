@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/syndo-app/static/css/main.9bb1fa34.chunk.css",
+    "main.js": "/syndo-app/static/js/main.f83330ed.chunk.js",
+    "main.js.map": "/syndo-app/static/js/main.f83330ed.chunk.js.map",
+    "runtime-main.js": "/syndo-app/static/js/runtime-main.2fc72b1c.js",
+    "runtime-main.js.map": "/syndo-app/static/js/runtime-main.2fc72b1c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/syndo-app/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7a9870b0.chunk.js": "/syndo-app/static/js/2.7a9870b0.chunk.js",
+    "static/js/2.7a9870b0.chunk.js.map": "/syndo-app/static/js/2.7a9870b0.chunk.js.map",
+    "index.html": "/syndo-app/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/syndo-app/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9bb1fa34.chunk.css.map": "/syndo-app/static/css/main.9bb1fa34.chunk.css.map",
+    "static/js/2.7a9870b0.chunk.js.LICENSE.txt": "/syndo-app/static/js/2.7a9870b0.chunk.js.LICENSE.txt",
+    "static/media/graph1.85e15936.png": "/syndo-app/static/media/graph1.85e15936.png",
+    "static/media/homedark.c207067a.png": "/syndo-app/static/media/homedark.c207067a.png",
+    "static/media/investor.ee30e262.png": "/syndo-app/static/media/investor.ee30e262.png",
+    "static/media/leader2.d9d7f577.png": "/syndo-app/static/media/leader2.d9d7f577.png",
+    "static/media/leader3.a88b9d35.png": "/syndo-app/static/media/leader3.a88b9d35.png",
+    "static/media/leader4.e9afafa5.jpg": "/syndo-app/static/media/leader4.e9afafa5.jpg",
+    "static/media/placeholder.8395dae3.jpg": "/syndo-app/static/media/placeholder.8395dae3.jpg",
+    "static/media/syndo.bdfbda7c.png": "/syndo-app/static/media/syndo.bdfbda7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc72b1c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7a9870b0.chunk.js",
+    "static/css/main.9bb1fa34.chunk.css",
+    "static/js/main.f83330ed.chunk.js"
+  ]
+}
