@@ -1,0 +1,51 @@
+@import '../../scss/variables.scss';
+.post-details{
+
+    .header{
+        position: fixed;
+        width: 100%;
+        z-index: 100;
+        
+    }
+
+    .content{
+            padding: $padding ;
+            .title{
+                span{
+                    color: $color-green;
+                    font-weight: bolder;
+                }
+            }
+            .img-container{
+                img{
+                    box-shadow:5px 5px red ;
+                }
+            }
+
+            .btns{
+                .btn{
+                    background-color: rgba(128, 128, 128, 0.198) ;
+                    margin-right: 10px;
+                    width: 100px;
+                    font-size: small;
+                }
+            }
+            .icons{
+                span{
+                    margin-right: 5px;
+                }
+            }
+            .icons + .btn{
+                background-color: $color-green;
+                color: $color-white;
+                font-weight: bold;
+                border-radius: 20px;
+                margin:20px 0;
+            }
+    }
+
+
+    .tabs-section{
+        padding:0 $padding;
+    }
+}

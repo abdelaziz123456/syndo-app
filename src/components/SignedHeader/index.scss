@@ -1,0 +1,58 @@
+@import '../../scss/variables.scss';
+.signed-header{
+    
+    padding-left: $padding;
+    padding-right: $padding;
+    
+    a{
+        text-decoration: none;
+        color: $color-black;
+    }
+
+    span{
+        color:$color-green
+    }
+    sub{
+        font-size: small;
+    }
+    .links{
+        a{
+            
+            font-weight: 600;
+            margin-left: 10px;
+            margin-right: 10px;
+            padding: 5px 10px;
+            margin: 5px;
+            &:hover{
+                background-color:$color-white ;
+                color: $color-black;
+                border-radius: 5px;
+            }
+        }
+    }
+
+
+    .user{
+
+        .user-img{
+
+            img{
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+            }
+
+        }
+
+        
+        small{
+            margin-bottom: 0;
+            display: block;
+        }
+
+    }
+
+    
+
+
+}

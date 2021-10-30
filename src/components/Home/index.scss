@@ -1,0 +1,104 @@
+@import '../../scss/variables.scss';
+
+.home{
+   
+    min-height: 100vh;
+    background-color: $color-black;
+    color: $color-white;
+    
+    
+    .header{
+        position: fixed;
+        width: 100%;
+        z-index: 100;
+        
+    }
+
+
+    .content{
+        padding-top:123px;
+        padding-left:$padding;
+        
+        h5{
+            color:$color-green
+        }
+        div{
+            flex:1
+        }
+        .btn{
+            color: $color-white;
+            background-color: $color-green;
+            font-size: large;
+            font-weight: bold;
+        }
+        img{
+            width: 100%;
+        }
+    }
+
+
+
+    .explore{
+        padding-right:$padding ;
+        padding-left: $padding;
+        h2{
+            font-weight: bold;
+        }
+        
+
+    }
+
+
+
+
+
+    // doers style start
+
+    .doers{
+        padding-right:$padding ;
+        padding-left: $padding;
+        
+        .doer{
+            background-color: rgb(61, 59, 59)
+            ;
+            img{
+                width:40px;
+                height: 40px;
+                border-radius: 50%;
+
+            }
+           
+        }
+    }
+
+    // doers style end
+
+
+
+
+
+
+
+    // leaders style start
+
+
+    .leaders{ 
+        padding: $padding;
+        .img-container{
+            img{
+                width:250px;
+                height: 150px;
+               margin-bottom: 20px;
+            }
+
+
+        }
+           
+    }
+
+
+    // leaders style end
+
+
+
+}

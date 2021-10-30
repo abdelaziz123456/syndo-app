@@ -1,0 +1,40 @@
+ @import '../../scss/variables.scss';
+ 
+ .post{
+           
+            background-color: white;
+            color: $color-black;
+            border:1px solid rgba(0, 0, 0, 0.157);
+            border-radius: 10px;
+            max-width: 350px;
+            .img-div{
+                
+                position: relative;
+                img{
+                    width: 100%;
+                    min-height: 150px;
+                }
+                
+               
+            }
+            .bar{
+                color: $color-green !important;
+                
+            }
+
+        .details{
+            ul{
+                list-style-type: none;
+                padding-left: 8px;
+                li{
+                    font-size: small;
+                    margin-top: 8px;
+                }
+            }
+            
+        }
+        .btn{
+            background-color: rgba(128, 128, 128, 0.198) ;
+        }
+            
+        }

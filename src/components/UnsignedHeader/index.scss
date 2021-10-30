@@ -1,0 +1,33 @@
+@import '../../scss/variables.scss';
+.unsigned-header{
+    
+    padding-left: $padding;
+    padding-right: $padding;
+    background-color: rgba(0, 0, 0, 0.466);
+    a{
+        text-decoration: none;
+        color: $color-white;
+    }
+
+    span{
+        color:$color-green
+    }
+    sub{
+        font-size: small;
+    }
+    .links{
+        a{
+            
+            font-weight: 600;
+            margin-left: 10px;
+            margin-right: 10px;
+            padding: 5px 10px;
+            margin: 5px;
+            &:hover{
+                background-color:$color-white ;
+                color: $color-black;
+                border-radius: 5px;
+            }
+        }
+    }
+}
